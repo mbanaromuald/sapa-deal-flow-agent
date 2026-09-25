@@ -1,4 +1,4 @@
-# 🦅 sapa-deal-flow-agent — Afrique Centrale
+# 🦅 SAPA M&A — Afrique Centrale
 
 Copilote IA d'analyse M&A et de Deal Flow pour la **Société Africaine de Participation (SAPA)**,
 spécialisé sur la zone **CEMAC** (Cameroun, Gabon, Congo, Tchad, RCA, Guinée Équatoriale).
